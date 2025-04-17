@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.150.2.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744838275022
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744838766028
+  login: 1744835688677
+money: '0'
+last-account-name: Semiboi
+logoutlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: 0.14031959535387994
+  y: 72.0
+  z: -2103.9331011967206
+  yaw: 147.603759765625
+  pitch: -28.800052642822266
+lastlocation:
+  world: e1749fc4-3cbc-46ae-b8a1-ccf5ad004f64
+  world-name: world_nether
+  x: -427.1112268592127
+  y: 31.35688360600689
+  z: -112.30000001192093
+  yaw: -21.104358673095703
+  pitch: 31.199926376342773
+homes:
+  home:
+    world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+    world-name: world
+    x: 7.748007587171578
+    y: 73.0
+    z: -2097.699999988079
+    yaw: -19.144073486328125
+    pitch: 18.300024032592773

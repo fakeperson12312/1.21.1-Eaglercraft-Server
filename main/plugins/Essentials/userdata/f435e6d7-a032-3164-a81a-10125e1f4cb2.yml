@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.150.2.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744838344113
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744838741440
+  login: 1744838339286
+money: '0'
+last-account-name: Yuvrajxd
+logoutlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: -2385.584983919091
+  y: 65.4
+  z: 184.6371879255614
+  yaw: -34.3382568359375
+  pitch: 51.30010986328125
+homes:
+  home:
+    world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+    world-name: world
+    x: -2574.3594370428877
+    y: 47.0
+    z: 45.69999998807907
+    yaw: 102.79846954345703
+    pitch: 28.799951553344727
+lastlocation:
+  world: e1749fc4-3cbc-46ae-b8a1-ccf5ad004f64
+  world-name: world_nether
+  x: -484.3549426765735
+  y: 22.105153889565027
+  z: -33.91745740992742
+  yaw: 25.544921875
+  pitch: 32.39999008178711

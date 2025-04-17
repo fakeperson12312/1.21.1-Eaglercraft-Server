@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.150.2.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744837159234
+  login: 1744837157173
+money: '0'
+last-account-name: bruv10
+logoutlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: 138.46343454018947
+  y: 72.0
+  z: -348.42961005592537
+  yaw: 69.66983795166016
+  pitch: 7.509319305419922

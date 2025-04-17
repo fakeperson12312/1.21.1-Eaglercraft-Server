@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.150.2.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744838127507
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744838736636
+  login: 1744837070584
+money: '0'
+last-account-name: iatepancakes
+lastlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: 147.20559271009643
+  y: 73.0
+  z: -344.45688618603197
+  yaw: 70.50006103515625
+  pitch: 18.600008010864258
+homes:
+  home:
+    world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+    world-name: world
+    x: -2574.2840483929385
+    y: 69.0
+    z: 57.00758021606743
+    yaw: 154.9595184326172
+    pitch: 38.4000129699707
+logoutlocation:
+  world: e1749fc4-3cbc-46ae-b8a1-ccf5ad004f64
+  world-name: world_nether
+  x: -630.8232177418877
+  y: 53.0
+  z: 508.69999998807907
+  yaw: 66.16104125976562
+  pitch: 11.699996948242188

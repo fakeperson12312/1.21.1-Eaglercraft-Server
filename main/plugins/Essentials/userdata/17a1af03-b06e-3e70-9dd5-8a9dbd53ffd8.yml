@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.150.2.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744838422868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744838767477
+  login: 1744837728473
+money: '0'
+last-account-name: imasdf
+logoutlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: -1873.4913138165305
+  y: 61.0
+  z: -236.61287499257344
+  yaw: 79.13006591796875
+  pitch: 35.550018310546875
+lastlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: -2574.2478887546877
+  y: 45.0
+  z: 44.70651699990918
+  yaw: -176.0514678955078
+  pitch: 12.899971008300781
+homes:
+  bastion:
+    world: e1749fc4-3cbc-46ae-b8a1-ccf5ad004f64
+    world-name: world_nether
+    x: 443.5982445510038
+    y: 33.0
+    z: -260.03555636681676
+    yaw: -163.4734344482422
+    pitch: 18.44999885559082
+  home:
+    world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+    world-name: world
+    x: -2575.5717363587
+    y: 45.0
+    z: 43.651117279320694
+    yaw: 110.29859924316406
+    pitch: 46.34999084472656

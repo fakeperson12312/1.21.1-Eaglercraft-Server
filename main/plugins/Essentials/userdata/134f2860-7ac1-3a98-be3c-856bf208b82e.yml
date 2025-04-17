@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.150.2.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744751416536
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744838753530
+  login: 1744836862474
+money: '0'
+last-account-name: rzhang6
+logoutlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: 3501.6222619860596
+  y: 9.0
+  z: 750.812576232593
+  yaw: 50.306640625
+  pitch: 74.99992370605469
+lastlocation:
+  world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+  world-name: world
+  x: 136.5
+  y: 74.0
+  z: -344.5
+  yaw: 0.0
+  pitch: 0.0

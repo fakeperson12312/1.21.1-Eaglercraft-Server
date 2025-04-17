@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.150.2.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744837741922
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744838467589
+  login: 1744837252573
+money: '0'
+last-account-name: bruv1000000
+lastlocation:
+  world: e1749fc4-3cbc-46ae-b8a1-ccf5ad004f64
+  world-name: world_nether
+  x: 532.8994995033353
+  y: 53.0
+  z: -315.602806003384
+  yaw: 39.41778564453125
+  pitch: 24.397737503051758
+homes:
+  home:
+    world: 6f9b869c-989c-4b94-b4c5-95f2584c07cd
+    world-name: world
+    x: -2574.6713848891372
+    y: 69.0
+    z: 48.68805734389082
+    yaw: -27.6455078125
+    pitch: 21.464967727661133
+logoutlocation:
+  world: e1749fc4-3cbc-46ae-b8a1-ccf5ad004f64
+  world-name: world_nether
+  x: -274.30000001192093
+  y: 70.0
+  z: -210.71399763230204
+  yaw: -95.85107421875
+  pitch: 22.103168487548828
